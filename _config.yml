@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
-title: VIOP # 站点标题
-url: https://viop.github.io # 网址
+permalink: /:year/:month/:day/:title
